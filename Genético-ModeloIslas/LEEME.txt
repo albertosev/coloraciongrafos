@@ -1,0 +1,3 @@
+Para ejecutar cada fichero y comprobar los algoritmos:
+(load "%%ruta%%/islas-%nombre%.lsp")
+(time (modeloIslas (tamPoblacion frecuencia mutacion generaciones) )

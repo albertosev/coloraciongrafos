@@ -1,0 +1,3 @@
+Para ejecutar cada fichero y comprobar los algoritmos:
+(load "%%ruta%%/tabu-%nombre%.lsp")
+(time (busquedaTabu 15))
